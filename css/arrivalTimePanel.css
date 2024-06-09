@@ -1,0 +1,17 @@
+.arrival_panel_command_form {
+  border: 1px solid #91775e;
+  background-color: #fff5da;
+  padding: 8px 8px 8px 4px;
+  max-width: min-content;
+}
+
+.arrival_panel_command_form .time-input {
+  margin-left: 4px;
+  margin-top: 6px;
+}
+.arrival_panel_command_form .time-input input {
+  padding: 4px 2px;
+  border: 1px solid #000;
+  border-radius: 3px;
+  outline: 0;
+}
